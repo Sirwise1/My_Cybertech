@@ -1,1 +1,2 @@
 "smile"  
+"my new command" 
